@@ -2,6 +2,7 @@ package Algorithms;
 
 public class MergeSort {
 
+    /*needs work*/
     public int[] mergeSortFunc(int[] input){
         if(input.length==1){
             return input;
