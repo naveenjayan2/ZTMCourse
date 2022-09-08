@@ -1,5 +1,7 @@
 package Questions;
-
+/**
+ * Accepted
+ * */
 public class BuyNSellStock {
 
 

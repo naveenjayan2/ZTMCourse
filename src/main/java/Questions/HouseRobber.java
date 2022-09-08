@@ -1,9 +1,8 @@
 package Questions;
 
 import java.util.HashMap;
-
 /**
- * Needs work
+ * Accepted
  * */
 public class HouseRobber {
 

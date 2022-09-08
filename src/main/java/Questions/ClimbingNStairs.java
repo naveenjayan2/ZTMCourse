@@ -1,7 +1,9 @@
 package Questions;
 
 import java.util.HashMap;
-
+/**
+ * Accepted
+ * */
 public class ClimbingNStairs {
 
     int combinations=0;
